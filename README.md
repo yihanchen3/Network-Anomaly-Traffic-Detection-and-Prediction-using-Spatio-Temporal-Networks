@@ -1,4 +1,4 @@
-# Real-Time Detection of Network Anomaly Traffic using Spatio-Temporal Hybrid Networks
+# Detection and Prediction of Network Anomaly Traffic using Spatio-Temporal Hybrid Networks
 - `requirements.txt`: Environment libraries required to run the code.
 
 ## Anomaly Traffic Detection Model
